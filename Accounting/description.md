@@ -3,7 +3,7 @@
 source credit from:  https://www.mtsac.edu/ce/images/photo_header/accounting_bookkeeping.jpg
 
 
-Accounting is a communication of finance and non-finance information based on business and cooperation. It’s a part of a business major to anyone who is interested in business.
+**Accounting** is a communication of finance and non-finance information based on business and cooperation. It’s a part of a business major to anyone who is interested in business.
 
 If you are interested in going to business field and wanting to be an accountant. But don't know which accounting field you want to do.
 I think this page will help you decided what you want to be.
