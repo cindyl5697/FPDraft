@@ -7,6 +7,6 @@ I think this page will help you decided what you want to be.
 In this page there are several topic about accounting.
 
 If you want to be:
-* an [CPA](Accounting/CPA.md )
-* an [Auditor](Accounting/audit.md)
-* a [Taxaccountant](Accounting/Taxaccounting.md)
+* an [CPA](CPA.md )
+* an [Auditor](AAudit.md)
+* a [Taxaccountant](Taxaccounting.md)
