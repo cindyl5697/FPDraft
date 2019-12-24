@@ -28,4 +28,4 @@ Please check the sources below for more informations:
 * [investopedia.com/terms/a/audit.asp](https://www.investopedia.com/terms/a/audit.asp)
 ---
 
-[HOME](../home.md)
+[HOME](description.md)
