@@ -14,8 +14,8 @@ For Public Accounting, accountant(s) do tax for different state or all the state
 ---
 
 To learn more:
-* [1](https://www.accountingtools.com/articles/what-is-public-accounting.html)
-* [2](https://www.accounting.com/careers/public-accounting/)
+* [accountingtools.com/articles/what-is-public-accounting.html](https://www.accountingtools.com/articles/what-is-public-accounting.html)
+* [accounting.com/careers/public-accounting/](https://www.accounting.com/careers/public-accounting/)
 ---
 
-[HOME](../home.md)
+[HOME](description.md)

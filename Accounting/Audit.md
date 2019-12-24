@@ -24,8 +24,8 @@ It's a good way to check the company's financial goals
 
 
 Please check the sources below for more informations:
-* [1](https://www.patriotsoftware.com/accounting/training/blog/different-types-of-audit/)
-* [2](https://www.investopedia.com/terms/a/audit.asp)
+* [patriotsoftware.com/accounting/training/blog/different-types-of-audit/](https://www.patriotsoftware.com/accounting/training/blog/different-types-of-audit/)
+* [investopedia.com/terms/a/audit.asp](https://www.investopedia.com/terms/a/audit.asp)
 ---
 
 [HOME](../home.md)

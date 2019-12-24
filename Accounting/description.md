@@ -11,7 +11,7 @@ I think this page will help you decided what you want to be.
 In this page there are several topic about accounting.
 
 If you want to be:
-* an [CPA](CPA.md )- or known as Certified Public Accountant
+* an [CPA](CPA.md)- or known as Certified Public Accountant
 * an [Auditor](Audit.md) - A person who do audit or interested in audit
 * a [Tax Accountant](Taxaccounting.md)- A person who do tax returns
 
